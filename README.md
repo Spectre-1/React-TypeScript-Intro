@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+Gave myself an introduction to react and typescript.
+The following code shows my implementation with types around props and states and types around events and refs
+
+
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
